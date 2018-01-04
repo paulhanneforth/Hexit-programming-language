@@ -1,3 +1,8 @@
 Printer:
 	print(value)
 Object object = Printer test
+Object i = Integer 1
+while(i == 1):
+	object.run
+	i = 1;
+print(object.value)
