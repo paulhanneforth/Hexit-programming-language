@@ -1,0 +1,4 @@
+testObject:
+	print(value)
+Object variable = testObject test
+exit
